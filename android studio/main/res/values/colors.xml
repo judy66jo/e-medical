@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <item name="cv1" type="color">#f2eeee</item>
+    <item name="cv2" type="color">#cae6d4</item>
+    <item name="cv3" type="color">#a1ceb2</item>
+    <item name="cv4" type="color">#496245</item>
+    <item name="cv5" type="color">#442919</item>
+    <item name="cv6" type="color">#e7d7cb</item>
+
+    <integer-array name="color_view">
+        <item>@color/cv1</item>
+        <item>@color/cv2</item>
+        <item>@color/cv3</item>
+        <item>@color/cv4</item>
+        <item>@color/cv5</item>
+        <item>@color/cv6</item>
+    </integer-array>
+
+</resources>
